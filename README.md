@@ -6,7 +6,7 @@
 
 ### Extracted Wallets List
 - List: [airbloc-publicsale-lottery-input.txt](airbloc-publicsale-lottery-input.txt)
-- SHA256 Hash of the file: `4520d19971afd4bdfa0c8f155d3e868a6250356aacdd8813c8c4e74a240a50d3`
+- SHA256 Hash of the file: `32609cf1fda30e6d7c31f7e941320394656d94cc4e67e7f9aaf7867de9f3cac8`
 - TX on Ethereum block: TBD
 
 ### NIST Randomness Beacon Result
